@@ -249,7 +249,7 @@ td.feedzy-has-popup {
  * TinyMce UI button
  */
 i.mce-i-feedzy-icon {
-	background-image: none, url("/wp-content/plugins/feedzy-rss-feeds/img/feedzy.svg"), url("/wp-content/plugins/feedzy-rss-feeds/img/feedzy.png");
+	background-image: none, url("/FinneosWebSite//wp-content/plugins/feedzy-rss-feeds/img/feedzy.svg"), url("/FinneosWebSite//wp-content/plugins/feedzy-rss-feeds/img/feedzy.png");
 }
 
 #feedzy-rss-button-insert {

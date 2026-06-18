@@ -708,15 +708,15 @@ img {
 }
 
 .feedzy-template-default {
-	background: url(/wp-content/plugins/feedzy-rss-feeds/img/feedzy-default-template.png) no-repeat bottom center;
+	background: url(/FinneosWebSite//wp-content/plugins/feedzy-rss-feeds/img/feedzy-default-template.png) no-repeat bottom center;
 }
 
 .feedzy-template-style1 {
-	background: url(/wp-content/plugins/feedzy-rss-feeds/img/feedzy-style1-template.png) no-repeat bottom center;
+	background: url(/FinneosWebSite//wp-content/plugins/feedzy-rss-feeds/img/feedzy-style1-template.png) no-repeat bottom center;
 }
 
 .feedzy-template-style2 {
-	background: url(/wp-content/plugins/feedzy-rss-feeds/img/feedzy-style2-template.png) no-repeat bottom center;
+	background: url(/FinneosWebSite//wp-content/plugins/feedzy-rss-feeds/img/feedzy-style2-template.png) no-repeat bottom center;
 }
 
 input[disabled],

@@ -439,7 +439,7 @@ input:checked + .feedzy-track:before {
 /* lazy loading feeds */
 .feedzy-lazy.loading {
 	z-index: 1001;
-	background: url(/wp-includes/images/wpspin-2x.gif) no-repeat center center;
+	background: url(/FinneosWebSite//wp-includes/images/wpspin-2x.gif) no-repeat center center;
 
 }
 
